@@ -1,0 +1,14 @@
+
+3. Create .gitignore file:
+```plaintext:c%3A%5CUsers%5CDELL%5CDesktop%5CMicrosoft%20VS%20Code%5Cfinance%5C.gitignore
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Database
+*.db
+
+# Environment
+.env
+venv/
